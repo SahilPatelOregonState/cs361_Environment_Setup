@@ -1,7 +1,2 @@
 car_vendor_app/node_modules/*
-asana_spike_test_create-task_update-task_set-blockers_delete_task.png
-cs361_environment_setup_snapshot.png
-github_cs361_setup_all_picks_from_spikes_saved.png
-monday_spike_test_create_update_delete_task.png
-reaccessing_CS340_db_retaking_course.png
-smartsheet_spike_test_create_update_delete_task.png
+cs361_Environment_Setup/*.png
