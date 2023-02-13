@@ -1,0 +1,4 @@
+car_vendor_app/node_modules/*
+self_made_microservice/node_modules/*
+cs361_microservice_for_partner/js_object_to_csv/node_modules/*
+cs361_microservice_for_partner/testing_server/node_modules/*
