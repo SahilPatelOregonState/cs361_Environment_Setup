@@ -14,10 +14,12 @@ app.use(express.urlencoded({ extended: true }))
 // app.use(route_to)
 // app.use(route_from)
 // app.use(XMLHttpRequest())
+
 var items = [
-    { name: "Item 1", color: "Green", size: "X-Large" },
-    { name: "Item 2", color: "White", size: "normal" },
-    { name: "Item 3", color: "Orange", size: "small" }];
+     { name: "Item 1", color: "Green", size: "X-Large" },
+     { name: "Item 2", color: "White", size: "normal" },
+     { name: "Item 3", color: "Orange", size: "small" }];
+
 
 
 app.get('/send-data',async(req,res)=>{
