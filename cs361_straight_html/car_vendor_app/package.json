@@ -19,6 +19,7 @@
     "jsdom": "^21.1.0",
     "mongoose": "^6.9.0",
     "nodemon": "^2.0.21",
+    "path": "^0.12.7",
     "puppeteer": "^19.6.3"
   },
   "description": ""

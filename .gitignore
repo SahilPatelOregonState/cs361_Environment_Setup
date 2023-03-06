@@ -2,3 +2,7 @@ car_vendor_app/node_modules/*
 self_made_microservice/node_modules/*
 cs361_microservice_for_partner/js_object_to_csv/node_modules/*
 cs361_microservice_for_partner/testing_server/node_modules/*
+wiki_scraped_service_partner/node_modules/*
+cs361_straight_html/car_vendor_app/node_modules/*
+cs361_straight_html/self_made_microservice/node_modules/*
+cs361_straight_html/wiki_scraped_service_partner/node_modules/*
