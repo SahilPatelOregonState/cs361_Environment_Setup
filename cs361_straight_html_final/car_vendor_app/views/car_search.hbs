@@ -1,0 +1,13 @@
+<form class ='car-search'  action="car_search" method="POST">
+  <label for="carName">enter car name:</label><br>
+  <input type="text" id="cname" name="carName" value="">
+  <input type="submit" value="Search">
+  <br>
+</form> 
+{{#if data_retrieved}}
+    {{>car_search_response}}
+
+{{/if}}
+
+
+
